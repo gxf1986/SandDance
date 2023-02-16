@@ -18,8 +18,8 @@
     "@msrvida/sanddance-explorer": "^2",
     "luma.gl": "6.4",
     "office-ui-fabric-react": "6.204.4",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "vega": "^5.9"
   },
   "devDependencies": {
